@@ -29,8 +29,7 @@ public class guessNumberUser {
 		}
 		
 		System.out.println("You\'re out of tries. The number was " + randomNumber);
-		
-		sc.close()
-;	}
+		sc.close();
+	}
 
 }
